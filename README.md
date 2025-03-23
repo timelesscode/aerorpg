@@ -2,20 +2,6 @@
 space shooter rpg made with lua and love2d
 
 
-Start new chat
-Starred
-Star chats you use often
-Recents
-Intergalactic Gambling Saga
-Fixing Issues in Tonk Card Game
-(New chat)
-Converting Pygame Pong to Raylib
-Basic 2D Unity Player Movement Script
-Simple Kai Drawing
-Kai's Martial Arts Odyssey
-View all
-Free plan
-
 DD
 devdot317@gmail.com
 Help & support
