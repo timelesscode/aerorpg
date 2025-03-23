@@ -1,6 +1,6 @@
 # aerorpg
 space shooter rpg made with lua and love2d
-lets write a action based story that takes place far into the future where people live all over the galaxy where people are in a war with the 7 different races its inspired by trigun, cowboy bebop and radiant 
+action based story that takes place far into the future where people live all over the galaxy where people are in a war with the 7 different races its inspired by trigun, cowboy bebop and radiant 
 Aero Wars - Chapter 1: The Calm Before
 Click to open document
 I've created the first chapter of your manga story, introducing the main characters and setting up the core conflict. Here's a quick breakdown of the key elements:
